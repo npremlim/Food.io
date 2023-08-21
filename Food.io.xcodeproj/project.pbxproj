@@ -11,6 +11,29 @@
 		B3375AE82A7E425A00341B24 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3375AE72A7E425A00341B24 /* ContentView.swift */; };
 		B3375AEA2A7E425B00341B24 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B3375AE92A7E425B00341B24 /* Assets.xcassets */; };
 		B3375AED2A7E425B00341B24 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B3375AEC2A7E425B00341B24 /* Preview Assets.xcassets */; };
+		B3375B112A84656300341B24 /* Inter-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B3375B082A84656200341B24 /* Inter-Bold.ttf */; };
+		B3375B122A84656300341B24 /* Inter-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B3375B092A84656300341B24 /* Inter-SemiBold.ttf */; };
+		B3375B132A84656300341B24 /* Inter-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B3375B0A2A84656300341B24 /* Inter-ExtraBold.ttf */; };
+		B3375B142A84656300341B24 /* Inter-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B3375B0B2A84656300341B24 /* Inter-Black.ttf */; };
+		B3375B152A84656300341B24 /* Inter-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B3375B0C2A84656300341B24 /* Inter-Light.ttf */; };
+		B3375B162A84656300341B24 /* Inter-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B3375B0D2A84656300341B24 /* Inter-Regular.ttf */; };
+		B3375B172A84656300341B24 /* Inter-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B3375B0E2A84656300341B24 /* Inter-Thin.ttf */; };
+		B3375B182A84656300341B24 /* Inter-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B3375B0F2A84656300341B24 /* Inter-ExtraLight.ttf */; };
+		B3375B192A84656300341B24 /* Inter-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B3375B102A84656300341B24 /* Inter-Medium.ttf */; };
+		B3375B1D2A8470A000341B24 /* HomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3375B1C2A8470A000341B24 /* HomePage.swift */; };
+		B3375B1F2A8470C400341B24 /* Leaderboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3375B1E2A8470C400341B24 /* Leaderboard.swift */; };
+		B3375B212A85864C00341B24 /* AddRestaurant.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3375B202A85864C00341B24 /* AddRestaurant.swift */; };
+		B3375B272A8A1FFF00341B24 /* RatingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3375B262A8A1FFF00341B24 /* RatingView.swift */; };
+		B3375B292A8AF07F00341B24 /* WelcomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3375B282A8AF07F00341B24 /* WelcomePage.swift */; };
+		B3375B2B2A8CB98900341B24 /* FoodBubble.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3375B2A2A8CB98900341B24 /* FoodBubble.swift */; };
+		B3375B2D2A8CC77400341B24 /* ToEat.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3375B2C2A8CC77400341B24 /* ToEat.swift */; };
+		B3375B2F2A8CC78800341B24 /* ToEatBubble.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3375B2E2A8CC78800341B24 /* ToEatBubble.swift */; };
+		B3375B312A8CC79500341B24 /* LeaderboardBubble.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3375B302A8CC79500341B24 /* LeaderboardBubble.swift */; };
+		B3375B342A8E1E2900341B24 /* Realm in Frameworks */ = {isa = PBXBuildFile; productRef = B3375B332A8E1E2900341B24 /* Realm */; };
+		B3375B362A8E1E2900341B24 /* RealmSwift in Frameworks */ = {isa = PBXBuildFile; productRef = B3375B352A8E1E2900341B24 /* RealmSwift */; };
+		B3375B382A8E1EC000341B24 /* RealmManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3375B372A8E1EC000341B24 /* RealmManager.swift */; };
+		B3375B3A2A8E1F1500341B24 /* Restaurant.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3375B392A8E1F1500341B24 /* Restaurant.swift */; };
+		B3375B432A8ECB3300341B24 /* WrappingHStack in Frameworks */ = {isa = PBXBuildFile; productRef = B3375B422A8ECB3300341B24 /* WrappingHStack */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +42,27 @@
 		B3375AE72A7E425A00341B24 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B3375AE92A7E425B00341B24 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B3375AEC2A7E425B00341B24 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B3375B082A84656200341B24 /* Inter-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Bold.ttf"; sourceTree = "<group>"; };
+		B3375B092A84656300341B24 /* Inter-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-SemiBold.ttf"; sourceTree = "<group>"; };
+		B3375B0A2A84656300341B24 /* Inter-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-ExtraBold.ttf"; sourceTree = "<group>"; };
+		B3375B0B2A84656300341B24 /* Inter-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Black.ttf"; sourceTree = "<group>"; };
+		B3375B0C2A84656300341B24 /* Inter-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Light.ttf"; sourceTree = "<group>"; };
+		B3375B0D2A84656300341B24 /* Inter-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Regular.ttf"; sourceTree = "<group>"; };
+		B3375B0E2A84656300341B24 /* Inter-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Thin.ttf"; sourceTree = "<group>"; };
+		B3375B0F2A84656300341B24 /* Inter-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-ExtraLight.ttf"; sourceTree = "<group>"; };
+		B3375B102A84656300341B24 /* Inter-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Medium.ttf"; sourceTree = "<group>"; };
+		B3375B1B2A8465F800341B24 /* Food-io-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Food-io-Info.plist"; sourceTree = SOURCE_ROOT; };
+		B3375B1C2A8470A000341B24 /* HomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePage.swift; sourceTree = "<group>"; };
+		B3375B1E2A8470C400341B24 /* Leaderboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Leaderboard.swift; sourceTree = "<group>"; };
+		B3375B202A85864C00341B24 /* AddRestaurant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddRestaurant.swift; sourceTree = "<group>"; };
+		B3375B262A8A1FFF00341B24 /* RatingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RatingView.swift; sourceTree = "<group>"; };
+		B3375B282A8AF07F00341B24 /* WelcomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomePage.swift; sourceTree = "<group>"; };
+		B3375B2A2A8CB98900341B24 /* FoodBubble.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodBubble.swift; sourceTree = "<group>"; };
+		B3375B2C2A8CC77400341B24 /* ToEat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToEat.swift; sourceTree = "<group>"; };
+		B3375B2E2A8CC78800341B24 /* ToEatBubble.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToEatBubble.swift; sourceTree = "<group>"; };
+		B3375B302A8CC79500341B24 /* LeaderboardBubble.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeaderboardBubble.swift; sourceTree = "<group>"; };
+		B3375B372A8E1EC000341B24 /* RealmManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RealmManager.swift; sourceTree = "<group>"; };
+		B3375B392A8E1F1500341B24 /* Restaurant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurant.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,6 +70,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B3375B362A8E1E2900341B24 /* RealmSwift in Frameworks */,
+				B3375B432A8ECB3300341B24 /* WrappingHStack in Frameworks */,
+				B3375B342A8E1E2900341B24 /* Realm in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -37,6 +84,7 @@
 			children = (
 				B3375AE42A7E425A00341B24 /* Food.io */,
 				B3375AE32A7E425A00341B24 /* Products */,
+				B3375B252A8A1C6300341B24 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -51,6 +99,12 @@
 		B3375AE42A7E425A00341B24 /* Food.io */ = {
 			isa = PBXGroup;
 			children = (
+				B3375B372A8E1EC000341B24 /* RealmManager.swift */,
+				B3375B392A8E1F1500341B24 /* Restaurant.swift */,
+				B3375B1B2A8465F800341B24 /* Food-io-Info.plist */,
+				B3375B1A2A84656900341B24 /* Fonts */,
+				B3375AF42A7E428700341B24 /* Views */,
+				B3375AF32A7E428200341B24 /* Components */,
 				B3375AE52A7E425A00341B24 /* Food_ioApp.swift */,
 				B3375AE72A7E425A00341B24 /* ContentView.swift */,
 				B3375AE92A7E425B00341B24 /* Assets.xcassets */,
@@ -65,6 +119,52 @@
 				B3375AEC2A7E425B00341B24 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		B3375AF32A7E428200341B24 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				B3375B2A2A8CB98900341B24 /* FoodBubble.swift */,
+				B3375B2E2A8CC78800341B24 /* ToEatBubble.swift */,
+				B3375B302A8CC79500341B24 /* LeaderboardBubble.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		B3375AF42A7E428700341B24 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				B3375B1C2A8470A000341B24 /* HomePage.swift */,
+				B3375B1E2A8470C400341B24 /* Leaderboard.swift */,
+				B3375B202A85864C00341B24 /* AddRestaurant.swift */,
+				B3375B282A8AF07F00341B24 /* WelcomePage.swift */,
+				B3375B2C2A8CC77400341B24 /* ToEat.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		B3375B1A2A84656900341B24 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				B3375B0F2A84656300341B24 /* Inter-ExtraLight.ttf */,
+				B3375B0C2A84656300341B24 /* Inter-Light.ttf */,
+				B3375B092A84656300341B24 /* Inter-SemiBold.ttf */,
+				B3375B0E2A84656300341B24 /* Inter-Thin.ttf */,
+				B3375B102A84656300341B24 /* Inter-Medium.ttf */,
+				B3375B0D2A84656300341B24 /* Inter-Regular.ttf */,
+				B3375B0A2A84656300341B24 /* Inter-ExtraBold.ttf */,
+				B3375B082A84656200341B24 /* Inter-Bold.ttf */,
+				B3375B0B2A84656300341B24 /* Inter-Black.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		B3375B252A8A1C6300341B24 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				B3375B262A8A1FFF00341B24 /* RatingView.swift */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -83,6 +183,11 @@
 			dependencies = (
 			);
 			name = Food.io;
+			packageProductDependencies = (
+				B3375B332A8E1E2900341B24 /* Realm */,
+				B3375B352A8E1E2900341B24 /* RealmSwift */,
+				B3375B422A8ECB3300341B24 /* WrappingHStack */,
+			);
 			productName = Food.io;
 			productReference = B3375AE22A7E425A00341B24 /* Food.io.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +216,10 @@
 				Base,
 			);
 			mainGroup = B3375AD92A7E425A00341B24;
+			packageReferences = (
+				B3375B322A8E1E2900341B24 /* XCRemoteSwiftPackageReference "realm-swift" */,
+				B3375B412A8ECB3200341B24 /* XCRemoteSwiftPackageReference "WrappingHStack" */,
+			);
 			productRefGroup = B3375AE32A7E425A00341B24 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -125,8 +234,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B3375B132A84656300341B24 /* Inter-ExtraBold.ttf in Resources */,
+				B3375B182A84656300341B24 /* Inter-ExtraLight.ttf in Resources */,
+				B3375B142A84656300341B24 /* Inter-Black.ttf in Resources */,
+				B3375B172A84656300341B24 /* Inter-Thin.ttf in Resources */,
+				B3375B122A84656300341B24 /* Inter-SemiBold.ttf in Resources */,
+				B3375B112A84656300341B24 /* Inter-Bold.ttf in Resources */,
 				B3375AED2A7E425B00341B24 /* Preview Assets.xcassets in Resources */,
 				B3375AEA2A7E425B00341B24 /* Assets.xcassets in Resources */,
+				B3375B162A84656300341B24 /* Inter-Regular.ttf in Resources */,
+				B3375B192A84656300341B24 /* Inter-Medium.ttf in Resources */,
+				B3375B152A84656300341B24 /* Inter-Light.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +255,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B3375B3A2A8E1F1500341B24 /* Restaurant.swift in Sources */,
+				B3375B212A85864C00341B24 /* AddRestaurant.swift in Sources */,
+				B3375B312A8CC79500341B24 /* LeaderboardBubble.swift in Sources */,
 				B3375AE82A7E425A00341B24 /* ContentView.swift in Sources */,
+				B3375B1F2A8470C400341B24 /* Leaderboard.swift in Sources */,
+				B3375B2F2A8CC78800341B24 /* ToEatBubble.swift in Sources */,
+				B3375B382A8E1EC000341B24 /* RealmManager.swift in Sources */,
+				B3375B272A8A1FFF00341B24 /* RatingView.swift in Sources */,
+				B3375B292A8AF07F00341B24 /* WelcomePage.swift in Sources */,
+				B3375B1D2A8470A000341B24 /* HomePage.swift in Sources */,
 				B3375AE62A7E425A00341B24 /* Food_ioApp.swift in Sources */,
+				B3375B2D2A8CC77400341B24 /* ToEat.swift in Sources */,
+				B3375B2B2A8CB98900341B24 /* FoodBubble.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,6 +399,7 @@
 				DEVELOPMENT_TEAM = H6QMX2HR7U;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Food-io-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -299,6 +429,7 @@
 				DEVELOPMENT_TEAM = H6QMX2HR7U;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Food-io-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -339,6 +470,43 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		B3375B322A8E1E2900341B24 /* XCRemoteSwiftPackageReference "realm-swift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/realm/realm-swift";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 10.0.0;
+			};
+		};
+		B3375B412A8ECB3200341B24 /* XCRemoteSwiftPackageReference "WrappingHStack" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/ksemianov/WrappingHStack";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.1.3;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		B3375B332A8E1E2900341B24 /* Realm */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = B3375B322A8E1E2900341B24 /* XCRemoteSwiftPackageReference "realm-swift" */;
+			productName = Realm;
+		};
+		B3375B352A8E1E2900341B24 /* RealmSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = B3375B322A8E1E2900341B24 /* XCRemoteSwiftPackageReference "realm-swift" */;
+			productName = RealmSwift;
+		};
+		B3375B422A8ECB3300341B24 /* WrappingHStack */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = B3375B412A8ECB3200341B24 /* XCRemoteSwiftPackageReference "WrappingHStack" */;
+			productName = WrappingHStack;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = B3375ADA2A7E425A00341B24 /* Project object */;
 }
